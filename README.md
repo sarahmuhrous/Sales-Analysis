@@ -52,8 +52,9 @@ The goal is to understand customer behavior, sales trends, and product performan
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./images/Dashboardd.png)
+![Dashboard](Dashboardd.png)
 
 ## ✍️ Author
 Created by Sara Muhrous
+
 
