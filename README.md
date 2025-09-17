@@ -1,4 +1,4 @@
-# 🛍️ Online Retail Data Analysis
+# 🛍️ Online Retail Sales Data Analysis
 
 ## 📌 Overview
 This project provides an analysis of the **Online Retail Dataset**, which contains transactions from a UK-based online retail store between 2018 and 2019.  
@@ -39,7 +39,7 @@ The goal is to understand customer behavior, sales trends, and product performan
 
 ## 📊 Key Insights (to be updated after analysis)
 
--  The highest gross sales were recorded in November 2019.
+-The highest gross sales were recorded in November 2019.
 
 -2019 sales increased significantly compared to 2018.
 
@@ -56,5 +56,6 @@ The goal is to understand customer behavior, sales trends, and product performan
 
 ## ✍️ Author
 Created by Sara Muhrous
+
 
 
